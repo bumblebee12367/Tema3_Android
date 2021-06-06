@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tema3Android</string>
+    <string name="title_hint">Titlu</string>
+    <string name="title_label">Title:</string>
+    <string name="author_label">Author:</string>
+    <string name="author_hint">Autor</string>
+    <string name="description_label">Description:</string>
+    <string name="description_hint">Descriere</string>
+    <string name="button_text">Add/Update</string>
+    <string name="book_delete_button_label">Delete</string>
+    <string name="selected_book_tv_label"><b>Book Info</b></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
